@@ -1,4 +1,4 @@
-# Madlibs-Python-Project by Badrinath (Myself)
+# Madlibs-Python-Project by Badrinath 
 
 Overview
 
